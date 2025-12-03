@@ -1,7 +1,7 @@
 ## Hi there 👋 
 <img src="kj.gif" alt="Karim" width="100%">
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karim-jbeli&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="profil views"/>
+  <img src="https://komarev.com/ghpvc/?username=karim-jbeli&label=Profil%20views&color=0e75b6&style=flat" alt="profil views"/>
 </p>
 
 ## A little bit about me
