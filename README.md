@@ -3,7 +3,7 @@
 
 ## A little bit about me
 
-🎓 &nbsp;I'm currently pursuing a **Master's in Open Source Software Engineering** at the Virtual University of Tunis (distance learning).\
+🎓 &nbsp;I'm currently pursuing a **Master's in Open Source Software Engineering** at the **Higher Institute Of Computer Science of Tunis** El Manar (distance learning).\
 🌱 &nbsp;I'm currently learning more about **Microservices Architecture, NLP, and Advanced Algorithms** for resource optimization.\
 💻 &nbsp;Passionate about building scalable web applications using **Spring Boot, Laravel, Angular, and Python**.\
 💬 &nbsp;I enjoy solving complex problems and implementing efficient algorithms for real-world applications.\
